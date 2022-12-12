@@ -1,0 +1,1 @@
+The readme file for the simple shell porject in ALX using c programming language. This project is done in collaboration with Glen Miracle. The shell accepts similar commands that an actual UNIX shell system or OS would accept.
